@@ -1,6 +1,6 @@
 ### Olá sou Iza👋
 
-- 🌱 Atualmente estou estudando JavaScript, CSS e HTML
+Estudante de ADS 
 - 💬 Entre em contato: izamalafaia15@gmail.com\
 
 <div align="center">
