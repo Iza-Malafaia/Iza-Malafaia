@@ -1,7 +1,7 @@
 ### Olá sou Iza👋
 
 Estudante de ADS 
-- 💬 Entre em contato: izamalafaia15@gmail.com\
+- 💬 Entre em contato: izamalafaia15@gmail.com
 
 
 <div> 
